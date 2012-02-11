@@ -1,7 +1,11 @@
 *.pyc
+*.pyo
 .installed.cfg
-bootstrap.py
-bin/
-develop-eggs/
-eggs/
-parts/
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+*.egg-info
