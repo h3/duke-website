@@ -1,2 +1,0 @@
-
-from website.settings import *
