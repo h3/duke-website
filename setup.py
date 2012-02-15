@@ -7,7 +7,7 @@ setup(
     license = 'BSD',
     description = "Duke website",
     author = 'Maxime Haineault',
-    packages = find_packages('eggs'),
+    packages = find_packages('.duke/eggs/'),
     package_dir = {'': '.'},
     install_requires = ['distribute'],
 )
